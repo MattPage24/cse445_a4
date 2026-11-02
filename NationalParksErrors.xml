@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Acadia</Name>
+    <Phone>207-288-3338</Phone>
+    <Address>
+      <Number>25</Number>
+      <Street>Visitor Center Road</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Arches</Name>
+    <Address NearestAirport="Canyonlands Field Airport">
+      <Number>907</Number>
+      <Street>PO Box</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.6">
+    <Name>Badlands</Name>
+    <Name>Duplicate Name</Name>
+    <Phone>605-433-5361</Phone>
+    <Address NearestAirport="Rapid City Regional Airport">
+      <Number>25216</Number>
+      <Street>Ben Reifel Road</Street>
+      <City>Interior</City>
+      <State>SD</State>
+      <Zip>57750</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Big Bend</Name>
+    <Phone>432-477-2251</Phone>
+    <Address NearestAirport="Midland International Air and Space Port">
+      <Number>129</Number>
+      <Street>PO Box</Street>
+      <City>Big Bend National Park</City>
+      <State>TX</State>
+      <Zip>79834</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Black Canyon of the Gunnison</Name>
+    <Phone>970-641-2337</Phone>
+    <Address NearestAirport="Montrose Regional Airport">
+      <Number>9800</Number>
+      <Street>Highway 347</Street>
+      <City>Montrose</City>
+      <State>CO</State>
+      <Zip>81401</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Canyonlands</Name>
+    <Phone>435-719-2313</Phone>
+    <Address NearestAirport="Canyonlands Field Airport">
+      <Number>2282</Number>
+      <Street>SW Resource Boulevard</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Carlsbad Caverns</Name>
+    <Phone>575-236-1309</Phone>
+    <Address NearestAirport="Cavern City Air Terminal">
+      <Number>3225</Number>
+      <Street>National Parks Highway</Street>
+      <City>Carlsbad</City>
+      <State>NM</State>
+      <Zip>88220</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Congaree</Name>
+    <Phone>803-776-4396</Phone>
+    <Address NearestAirport="Columbia Metropolitan Airport">
+      <Number>100</Number>
+      <Street>National Park Road</Street>
+      <City>Hopkins</City>
+      <State>SC</State>
+      <Zip>29061</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Cuyahoga Valley</Name>
+    <Phone>440-717-3890</Phone>
+    <Address NearestAirport="Cleveland Hopkins International Airport">
+      <Number>6947</Number>
+      <Street>Riverview Road</Street>
+      <City>Peninsula</City>
+      <State>OH</State>
+      <Zip>44264</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Address NearestAirport="McGhee-Tyson Airport">
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+  </NationalPark>
+  
+</NationalPark>
